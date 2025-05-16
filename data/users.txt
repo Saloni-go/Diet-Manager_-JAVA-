@@ -1,0 +1,10 @@
+ns djh,Male,45,534.00,4598.00,1.20,Maintain Weight
+ns djhtrt,Male,45,534.00,4598.00,1.20,Maintain Weight
+gfk,Female,20,150.00,50.00,1.20,Maintain Weight
+rrq,Male,46,56.00,5345.00,1.20,Maintain Weight
+rrq,Male,46,56.00,5345.00,1.20,Lose Weight
+dgmsn,Male,45,160.00,54.00,1.20,Lose Weight
+dgmsn,Male,45,160.00,54.00,1.20,Lose Weight
+hjh`,Male,4,343.00,234.00,1.20,Gain Weight
+dfkjs,Male,34,45.00,4353.00,1.20,Maintain Weight,-450.00
+dfnkj,Male,3,35.00,353.00,1.20,Lose Weight,NaN

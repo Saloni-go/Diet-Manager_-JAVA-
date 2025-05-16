@@ -1,0 +1,29 @@
+B;Apple;52;fruit,sweet
+B;Rice;130;grain,carb
+B;Egg;78;protein,breakfast
+B;Meat;45.0;a,b
+B;noodles;500.0;spicy, curly, chewy
+B;pizza;600.0;toppings, cheesy
+B;pasta;45.0;a,b
+C;fish tikka;idk bro i am veg;Apple:2,Egg:1,Meat:3
+B;d;3.0;f
+B;dfds;44.0;dsf
+B;ef;34.0;ff
+C;rt;ghg,g,g,f;Apple:6
+B;saloni;34.0;dfh
+B;khk;34.0;khfk
+B;dfjkb;23.0;jfkdj
+B;ff;4.0;re
+B;efwd;45.0;feeb
+B;kefdkhq;7988.0;dkjbfkhe
+B;meat feast pizza;249.0;"en:meals","en:meals-with-meat"
+B;Amora Sauce Burger 260g;240.0;"en:condiments","en:sauces","en:american-style-sauces","en:burger-sauces","en:groceries"
+B;Apple & Raisin Oat Bars;426.0;"en:snacks","en:sweet-snacks","en:bars","en:cereal-bars","en:fruits-cereal-bars","en:apple-cereal-bars"
+B;meat feast pizza;249.0;"en:meals","en:meals-with-meat"
+B;dfmnsdm;4325.0;jnfsd
+B;Chèvre frais;160.0;"en:dairies","en:fermented-foods","en:fermented-milk-products","en:cheeses","en:pasteurised-products","en:goat-cheeses","en:fresh-goat-cheese","en:pasteurized-cheeses","en:cream-cheeses","fr:fromage-au-lait-de-chevre-pasteurise"
+B;rr;45.0;re
+B;fbkjh;4545.0;nkjfkr
+B;dfs;34.0;jfenj
+B;hjfjwh;45.0;hjbfjh
+B;dfbh;345.0;dhbfdqh
